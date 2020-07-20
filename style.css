@@ -18,9 +18,12 @@
   color: red;
 }
 .top-img{
-  width:100%;
   height: 650px;
   display: block;
+  background-image: url(https://求人ボックス.com/bundles/kyujinboxweb/sp/img/search/city/city_1545.jpg);
+  background-size: cover;
+  background-position: right;
+  background-attachment: fixed;
 }
 .top-title{
   color: white;
@@ -46,12 +49,18 @@
   margin-top: 100px;
   width: 100%;
   height: 650px;
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-image: url(https://japan.zdnet.com/storage/2019/07/01/0feffd10476ef0e8dcef877e26290583/t/584/438/d/large-104296.jpg);
+  background-size: cover;
+  background-position: center;
 }
 .skill-text{
   position: relative;
   color: white;
   text-align: center;
   margin-top: -650px;
+ 
 }
 .fa-code{
   color:red;
@@ -74,6 +83,10 @@
 .work-list{
   width: 100%;
   height: 1700px;
+  background-image:url(https://www.pc-koubou.jp/magazine/wp-content/uploads/2018/02/windows10_shortcut_main-810x450.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
 }
 .work-alls{
   position: relative;
@@ -99,11 +112,11 @@
   opacity: 0.5;
 }
 .footer{
-  height: 100px;
+  height: 50px;
   background-color: grey;
 }
 .footer-text{
-  padding-top: 70px;
   text-align: center;
   font-size: 10px;
+  line-height: 60px;
 }
