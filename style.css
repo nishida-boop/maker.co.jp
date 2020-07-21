@@ -46,7 +46,17 @@
 .fab{
   font-size: 20px;
   margin-left: 20px;
+  margin-top: 20px;
   color: black;
+}
+.fa-facebook-square{
+  color:#000066;
+}
+.fa-twitter{
+  color: #005FFF;
+}
+.fa-instagram{
+  color:#FFC7AF;
 }
 .skill-img{
   display: block;
